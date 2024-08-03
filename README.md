@@ -2,8 +2,6 @@
 
 ## example
 
-TODO
-
 ## Índice
 * [Índice](#índice)
 * [Descripción del Proyecto](#descripción-del-proyecto)
