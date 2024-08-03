@@ -1,7 +1,7 @@
 
-
-## example
-
+<div align="center">
+<h1 align="center">
+  
 ## Índice
 * [Índice](#índice)
 * [Descripción del Proyecto](#descripción-del-proyecto)
